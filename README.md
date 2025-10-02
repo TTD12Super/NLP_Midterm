@@ -23,15 +23,6 @@ Hoàn thành **bài toán phân loại văn bản Toxic (độc hại) cho tiế
    - Theo **term** (word/token) với các chế độ: binary, TF-IDF  
    - **Word Embedding** (Keras Embedding, Word2Vec) để biểu diễn ngữ nghĩa từ  
 
-## Cấu trúc dự án
-NLP_Midterm/
-│
-├─ data/ (Tập dữ liệu train/test)
-├─ NLP_venv/ (Virtual environment)
-├─ requirement.txt (Thư viện cần cài đặt)
-├─ toxic_classification.ipynb (Notebook chính giải bài toán)
-├─ README.md
-
 
 ## Hướng dẫn sử dụng
 
