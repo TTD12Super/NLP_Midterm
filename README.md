@@ -26,10 +26,10 @@ Hoàn thành **bài toán phân loại văn bản Toxic (độc hại) cho tiế
 ## Cấu trúc dự án
 NLP_Midterm/
 │
-├─ data/ # Tập dữ liệu train/test
-├─ NLP_venv/ # Virtual environment
-├─ requirement.txt # Thư viện cần cài đặt
-├─ toxic_classification.ipynb # Notebook chính giải bài toán
+├─ data/ (Tập dữ liệu train/test)
+├─ NLP_venv/ (Virtual environment)
+├─ requirement.txt (Thư viện cần cài đặt)
+├─ toxic_classification.ipynb (Notebook chính giải bài toán)
 ├─ README.md
 
 
